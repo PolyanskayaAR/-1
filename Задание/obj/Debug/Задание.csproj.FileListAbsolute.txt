@@ -1,0 +1,10 @@
+C:\Users\asya1\Desktop\Задание\bin\Debug\Задание.exe.config
+C:\Users\asya1\Desktop\Задание\bin\Debug\Задание.exe
+C:\Users\asya1\Desktop\Задание\bin\Debug\Задание.pdb
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.csproj.AssemblyReference.cache
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.Form1.resources
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.Properties.Resources.resources
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.csproj.GenerateResource.cache
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.exe
+C:\Users\asya1\Desktop\Задание\obj\Debug\Задание.pdb
